@@ -1,4 +1,8 @@
+<img src="../../../docs/assets/abv-monogram.svg" width="72" height="72" alt="ABV Labs monogram">
+
 # Why Build a Giant Table When You Only Need One Answer?
+
+[Complete offline reader ZIP](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.2/Giant-table-one-answer-complete-reader-v0.3.3-r1.zip) · [Reader bundle release](https://github.com/thereelninoninkovic/abv-labs-publications/releases/tag/giant-table-one-answer-v0.3.3-reader.2) · [ABV Labs web reading hub](https://thereelninoninkovic.github.io/abv-labs-publications/)
 
 **Tin Ninkoviċ · ABV Labs · 20 October 2026 · Edition 0.3.3**
 
