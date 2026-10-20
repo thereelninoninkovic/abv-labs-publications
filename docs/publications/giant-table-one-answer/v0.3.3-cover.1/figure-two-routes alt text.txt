@@ -1,0 +1,5 @@
+The full-table route builds every entry before calculating the answers. The direct route applies the same rule to the input list and produces the same list of answers.
+
+Two routes produce the same list of answers: build the full table and apply it, or use the rule directly without filling the table.
+
+Original ABV Labs illustration; created with AI assistance.

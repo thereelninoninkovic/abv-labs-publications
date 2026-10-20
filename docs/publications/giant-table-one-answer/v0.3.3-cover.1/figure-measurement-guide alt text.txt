@@ -1,0 +1,5 @@
+First, lower traced allocation is better for this resource comparison. Second, the answers must still agree. Third, this is one historical Python measurement, not total computer memory or a claim about every program.
+
+Read the historical comparison in three parts: the direct formula recorded lower traced allocation; its answers still closely agreed; and the measurement covers traced Python allocations for this chosen example, not total machine memory or a general speedup.
+
+Original ABV Labs illustration; created with AI assistance.

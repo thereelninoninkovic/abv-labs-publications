@@ -1,0 +1,5 @@
+A full square table stores n times n entries. The compact rule keeps n multipliers and one averaging rule, where n is the number of inputs. Input and answer lists are excluded from both mathematical counts.
+
+The full table contains n × n entries. This model can instead keep n multipliers and one averaging rule. Here n is the number of inputs. Input and answer lists are excluded from both counts. These are mathematical counts, not measured memory or running time.
+
+Original ABV Labs illustration; created with AI assistance.
