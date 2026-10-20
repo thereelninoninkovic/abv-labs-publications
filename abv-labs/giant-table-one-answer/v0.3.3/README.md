@@ -1,3 +1,7 @@
+> **New cover edition:** [Read the current article and matching PDF](https://thereelninoninkovic.github.io/abv-labs-publications/publications/giant-table-one-answer/v0.3.3-cover.1/index.html). The ivory paper-sculpture cover changes the presentation; the article and historical measurements are unchanged.
+
+## Earlier article edition 0.3.3
+
 <img src="../../../docs/assets/abv-monogram.svg" width="72" height="72" alt="ABV Labs monogram">
 
 # Why Build a Giant Table When You Only Need One Answer?
