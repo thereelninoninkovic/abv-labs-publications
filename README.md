@@ -18,7 +18,9 @@ A small worked example explains how a known rule can produce the answers without
 
 **Tin Ninkoviċ · 20 October 2026 · Edition 0.3.3**
 
-[Open the publication](abv-labs/giant-table-one-answer/v0.3.3/README.md) · [Read the complete article](abv-labs/giant-table-one-answer/v0.3.3/Article.md) · [View the PDF](abv-labs/giant-table-one-answer/v0.3.3/Article.pdf) · [Get the data and methods](abv-labs/giant-table-one-answer/v0.3.3/Giant%20table%20one%20answer%20-%20data%20and%20methods%20v0.2.1.zip)
+[Open the publication](abv-labs/giant-table-one-answer/v0.3.3/README.md) · [Read the complete article](abv-labs/giant-table-one-answer/v0.3.3/Article.md) · [View the PDF](abv-labs/giant-table-one-answer/v0.3.3/Article.pdf) · [Get the data and methods](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.1/Giant-table-one-answer-data-and-methods-v0.2.1.zip)
+
+[Download the matching PDF](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.1/Giant-table-one-answer-v0.3.3.pdf) · [Versioned release and checksums](https://github.com/thereelninoninkovic/abv-labs-publications/releases/tag/giant-table-one-answer-v0.3.3-reader.1)
 
 ## What you will find here
 
