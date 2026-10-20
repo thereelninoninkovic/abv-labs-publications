@@ -23,9 +23,11 @@ At the largest tested input size, the direct method recorded about 99.8% less me
 | [Standalone HTML](Article.html) | A semantic reading file with mobile figure renditions. GitHub displays its source; download it with the accompanying figures to use it locally. |
 | [Concept guide](../../../Explore.md) | Short routes into the ideas, without requiring the technical vocabulary first. |
 
+[Download the matching PDF](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.1/Giant-table-one-answer-v0.3.3.pdf) · [Versioned release and checksums](https://github.com/thereelninoninkovic/abv-labs-publications/releases/tag/giant-table-one-answer-v0.3.3-reader.1)
+
 ## Data and methods
 
-[Download the selected data and methods](Giant%20table%20one%20answer%20-%20data%20and%20methods%20v0.2.1.zip).
+[Download the selected data and methods](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.1/Giant-table-one-answer-data-and-methods-v0.2.1.zip).
 
 The download includes the 25 paired historical observations, five-size median summary, calculated comparisons, field definitions and measurement-scope notes. Five pairs means five runs of each method. The figures compare separate method medians; the article explains the distinction beside the table.
 
