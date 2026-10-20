@@ -1,0 +1,5 @@
+Use the shortcut when the shared rule is valid and you need the list of answers. Check again if entries follow other rules, every table entry is needed or the model changes.
+
+Use the direct calculation when the shared rule is valid and the requested result is a list of answers. Different entry rules, a changed model or a need for every table entry require a fresh check.
+
+Original ABV Labs illustration; created with AI assistance.

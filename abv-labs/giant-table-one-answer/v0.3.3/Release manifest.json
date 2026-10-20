@@ -1,0 +1,131 @@
+{
+  "title": "Why Build a Giant Table When You Only Need One Answer?",
+  "edition": "0.3.3",
+  "author": "Tin Ninkoviċ",
+  "article_pdf_sha256": "4661db835a43e85963490b78580e4889d43ca61c7bb371c374ca845e01be29dd",
+  "reader_data_version": "0.2.0",
+  "files": [
+    {
+      "path": "Article.html",
+      "sha256": "75851b17323f7d68590e426aa82933a343712207ec200618e6e1b51450799e13",
+      "bytes": 139081
+    },
+    {
+      "path": "Article.md",
+      "sha256": "fe6032faa6d325181d0a9a23bfa8af879460af4e4b54baf52945d1fc00c541b7",
+      "bytes": 17224
+    },
+    {
+      "path": "Article.pdf",
+      "sha256": "4661db835a43e85963490b78580e4889d43ca61c7bb371c374ca845e01be29dd",
+      "bytes": 180011
+    },
+    {
+      "path": "Cover alt text.txt",
+      "sha256": "4e0ee07e8cddf9c12cd4d313d62ec83239e223cf33e9bca84b249b6f23b3bbbb",
+      "bytes": 147
+    },
+    {
+      "path": "Cover.png",
+      "sha256": "989dca147016021e42b6148c6aa809db2cc16ced6f76d63aa7556b0c71a073f2",
+      "bytes": 57823
+    },
+    {
+      "path": "Data and methods.zip",
+      "sha256": "7abcfa6ede9c09ea4c0ca592607f02fbe95a3bae84e5e3005f5491bf34b2b776",
+      "bytes": 5015
+    },
+    {
+      "path": "Giant table one answer - ABV Labs LinkedIn public packet v0.3.3-r3.zip",
+      "sha256": "e543197f0f83145c56f7cf6804b9f181a384fca63900cb601cd483a2c4695931",
+      "bytes": 56180
+    },
+    {
+      "path": "Giant table one answer - LinkedIn public packet v0.3.3-r3.zip",
+      "sha256": "2d529248801bfd6a7cb2d41fa2a0fa69e8d3744ad134125cbed59d11a7bf71a7",
+      "bytes": 1189235
+    },
+    {
+      "path": "Giant table one answer - Substack public packet v0.3.3-r3.zip",
+      "sha256": "35c07bcbb27e0fd3d82a0365c8d760016716107c1b3c30b099e1e9441428b9f6",
+      "bytes": 1177059
+    },
+    {
+      "path": "Header.png",
+      "sha256": "600dddf4609555b90c7799d56138f39990d62c6df9b856d21f575183d0ccefe0",
+      "bytes": 70218
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "c496f5d00e6e9543a5e54114c2d7ec2646e5972ee61e0f59f4dd539d29c9caf3",
+      "bytes": 555
+    },
+    {
+      "path": "README.md",
+      "sha256": "837171de876cb66bec9799901f009480d6fb27b14531354e93a0fd52dca9c015",
+      "bytes": 2094
+    },
+    {
+      "path": "figure-measurement-guide alt text.txt",
+      "sha256": "89f0567108d7f1f76006b984fd551b354972610338bd29fe103596a5ef9c471c",
+      "bytes": 538
+    },
+    {
+      "path": "figure-measurement-guide.png",
+      "sha256": "5affaa636a4ff4c54da9eac0d502710a5996ffc7afc7c3e272b6b30b08d73162",
+      "bytes": 71549
+    },
+    {
+      "path": "figure-recorded-memory alt text.txt",
+      "sha256": "2446a6a94deb579d13c6c7a8fb745dac362dbd8f347d998c2b6899adf5a56020",
+      "bytes": 469
+    },
+    {
+      "path": "figure-recorded-memory.png",
+      "sha256": "cb4abc7d84a29053f7f7a4111a9a5564fdb7c8d4bcd3c5deebc6fab9b2c60d1c",
+      "bytes": 74254
+    },
+    {
+      "path": "figure-representation-counts alt text.txt",
+      "sha256": "edf1071950b2b7dc649b2cedc2613977b9d5254cb016565978c640d8c7948b7e",
+      "bytes": 529
+    },
+    {
+      "path": "figure-representation-counts.png",
+      "sha256": "e6d99cbf270a1bfcde3ad3559098641a48df0b8707774bafba953b59a6bd514c",
+      "bytes": 63144
+    },
+    {
+      "path": "figure-shortcut-scope alt text.txt",
+      "sha256": "b633e59e209f69e7dfce21437582b5d1b746d207df56b613e16dcc46112717c5",
+      "bytes": 434
+    },
+    {
+      "path": "figure-shortcut-scope.png",
+      "sha256": "a66f2cfb89158350b9c56f699119c9d3188f67ae56b5ad08cb34b2c15ca0450c",
+      "bytes": 67634
+    },
+    {
+      "path": "figure-two-routes alt text.txt",
+      "sha256": "f12b7bc223d7504f3433da6d8789aa56b46c5cc3798c477ef003534a9cda9d87",
+      "bytes": 362
+    },
+    {
+      "path": "figure-two-routes.png",
+      "sha256": "3d4754d77985d7bdb739a70b8be8b929489bb7d9ee42c604dfbcebf56bdf1e78",
+      "bytes": 58862
+    },
+    {
+      "path": "figure-worked-arithmetic alt text.txt",
+      "sha256": "eb4b8596f00036fa5313d04129e8c949ce6e5c4d9acda221248a7faa8fab8009",
+      "bytes": 388
+    },
+    {
+      "path": "figure-worked-arithmetic.png",
+      "sha256": "3eb9a3d33cb482e95c6ae0ecc4467059c157866b09faa6928c1985386f6fe35a",
+      "bytes": 57164
+    }
+  ],
+  "scope": "Public text, illustrations and reader data only; no private staging history, implementation code or original research archive.",
+  "projection_changes": "Article.md uses local figure filenames; prose is unchanged from the checked channel packet."
+}
