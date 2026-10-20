@@ -1,0 +1,36 @@
+name: Article correction
+description: Report an error or unclear explanation in a public publication.
+title: "Article correction: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be public. Use public URLs and short quoted passages only. Do not upload private source files, research archives, review packets, credentials or personal details. Security concerns belong in SECURITY.md's private reporting route.
+  - type: input
+    id: publication
+    attributes:
+      label: Public publication URL and edition
+      description: Link the article, PDF or reader dataset you are discussing.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Section, figure, table or page
+      description: Help us find the specific passage or value.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change, and why?
+      description: Explain the issue in plain language. For a numerical claim, show the relevant calculation or public evidence. Do not attach private material.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public supporting references
+      description: Optional public links or a short explanation of the evidence. Identify uncertainty rather than presenting a guess as a result.
+    validations:
+      required: false
