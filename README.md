@@ -1,4 +1,8 @@
+<img src="docs/assets/abv-monogram.svg" width="72" height="72" alt="ABV Labs monogram">
+
 # ABV Labs publications
+
+[Complete offline reader ZIP](https://github.com/thereelninoninkovic/abv-labs-publications/releases/download/giant-table-one-answer-v0.3.3-reader.2/Giant-table-one-answer-complete-reader-v0.3.3-r1.zip) · [Reader bundle release](https://github.com/thereelninoninkovic/abv-labs-publications/releases/tag/giant-table-one-answer-v0.3.3-reader.2) · [ABV Labs web reading hub](https://thereelninoninkovic.github.io/abv-labs-publications/)
 
 Articles, illustrations and selected data from Tin Ninkoviċ’s research and development work at Awesome Bosnian Ventures, LLC.
 
