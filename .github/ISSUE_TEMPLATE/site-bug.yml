@@ -1,0 +1,35 @@
+name: Website or download problem
+description: Report a broken link, reading-layout problem or accessibility observation.
+title: "Reader site: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report will be public. Do not upload private files, account details, tokens or unredacted screenshots. Describe only the public reader page. Report security concerns through SECURITY.md rather than here.
+  - type: input
+    id: url
+    attributes:
+      label: Public page or download URL
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened?
+      description: Describe what you saw and what you expected. A short sequence of steps is useful.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and screen context
+      description: For example, Safari on a phone or Firefox on a desktop. No device serial number, account identity or private diagnostic log is needed.
+    validations:
+      required: false
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: Accessibility details
+      description: Optional description of the reading, keyboard or assistive-technology problem. Do not include personal medical information.
+    validations:
+      required: false
