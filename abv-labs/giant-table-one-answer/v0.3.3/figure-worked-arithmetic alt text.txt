@@ -1,5 +1,0 @@
-Inputs 2, 4 and 6 have average 4. Row one: 2 times 1 plus 4 equals 6. Row two: 4 times 2 plus 4 equals 12. Row three: 6 times 3 plus 4 equals 22.
-
-For the illustrative list 2, 4, 6, the average is 4. Multiply each input by its position, then add 4: the answers are 6, 12 and 22. The full-table calculation gives the same list.
-
-Original ABV Labs illustration; created with AI assistance.

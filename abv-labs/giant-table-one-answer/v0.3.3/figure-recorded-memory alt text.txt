@@ -1,5 +1,0 @@
-Two zero-based bars compare 8.464548 decimal MB for the full-table implementation and 0.014284 MB for the direct formula at 512 inputs. Median of five retained historical runs.
-
-At 512 inputs, the median of five historical runs was 8,464,548 versus 14,284 bytes of traced Python peak allocation. Decimal MB use 1,000,000 bytes. This is not total process memory or a new benchmark run.
-
-Original ABV Labs chart; retained experimental data reanalysed with AI assistance.
